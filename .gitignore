@@ -1,0 +1,11 @@
+app/__init__.pyc
+app/models.pyc
+app/admin.pyc
+app/forms.pyc
+app/views.pyc
+app/urls.pyc
+
+project/__init__.pyc
+project/settings.pyc
+project/urls.pyc
+project/wsgi.pyc
